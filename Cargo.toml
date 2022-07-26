@@ -1,0 +1,12 @@
+[package]
+name = "rzip"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "rzip"
+
+edition = "2021"
+[dependencies]
+bitvec = "1"
